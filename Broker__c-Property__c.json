@@ -1,0 +1,187 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef1"
+            },
+            "Name": "Caroline Kingsley",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef1"
+                        },
+                        "Name": "Seaport District Retreat",
+                        "Address__c": "121 Harborwalk"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef2"
+                        },
+                        "Name": "Architectural Details",
+                        "Address__c": "95 Gloucester St"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef3"
+                        },
+                        "Name": "Stunning Victorian",
+                        "Address__c": "18 Henry St"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef2"
+            },
+            "Name": "Michael Jones",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef4"
+                        },
+                        "Name": "City Living",
+                        "Address__c": "640 Harrison Ave"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef5"
+                        },
+                        "Name": "Contemporary Luxury",
+                        "Address__c": "145 Commonwealth Ave"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef6"
+                        },
+                        "Name": "Ultimate Sophistication",
+                        "Address__c": "24 Pearl St"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef3"
+            },
+            "Name": "Jonathan Bradley",
+            "Properties__r": {
+                "records": []
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef4"
+            },
+            "Name": "Jennifer Wu",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef7"
+                        },
+                        "Name": "Stunning Colonial",
+                        "Address__c": "32 Prince st"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef8"
+                        },
+                        "Name": "Modern City Living",
+                        "Address__c": "72 Francis st"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef5"
+            },
+            "Name": "Olivia Green",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef9"
+                        },
+                        "Name": "Waterfront in the City",
+                        "Address__c": "110 Baxter Street"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef6"
+            },
+            "Name": "Miriam Aupont",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef10"
+                        },
+                        "Name": "Quiet Retreat",
+                        "Address__c": "448 Hanover St"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef7"
+            },
+            "Name": "Michelle Lambert",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef11"
+                        },
+                        "Name": "City Living",
+                        "Address__c": "127 Endicott St"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef8"
+            },
+            "Name": "Victor Ochoa",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef12"
+                        },
+                        "Name": "Heart of Harvard Square",
+                        "Address__c": "48 Brattle st"
+                    }
+                ]
+            }
+        }
+    ]
+}
